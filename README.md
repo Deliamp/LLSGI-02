@@ -1,8 +1,9 @@
-##**INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LMSGI**
-###**TEMA 2**
+##INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LMSGI
+###TEMA 2
 
-####**Tarea – Introducción al HTML**
-#####**Alumna: Delia Montero Peralta**
+####Tarea – Introducción al HTML
+#####Alumna: Delia Montero Peralta
+
 **1º - Título y descripción en la cabecera (head) totalmente descriptivos con el tema.**
 
 		Title: Pymes y MicroPymes
