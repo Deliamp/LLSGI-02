@@ -1,8 +1,7 @@
-##INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LMSGI
-###TEMA 2
-
-####Tarea – Introducción al HTML
-#####Alumna: Delia Montero Peralta
+# INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LLSGI
+## TEMA 2 - Introducción al HTML
+**Tarea**
+**Alumna: Delia Montero Peralta**
 
 **1º - Título y descripción en la cabecera (head) totalmente descriptivos con el tema.**
 
