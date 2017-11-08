@@ -24,7 +24,7 @@
 
 He utilizado tres imágenes sobre el tema. Tras localizarlas en Internet las he descargado y he utilizado para ajustarlas la aplicación online [Webresizer]( http://webresizer.com/resizer).
 
-Para poder diferenciar entre *relative path* y *absolute path* he realizado la actividad de dos formas. La primera con *relative path* (index) y la segunda con *absolute path* (index2).
+Para poder diferenciar entre *relative path* y *absolute path* he realizado la actividad de dos formas. La primera con *relative path* (**index**) y la segunda con *absolute path* (**index2**).
 
 **NOTA:**
 Al no poder crear dentro del repositorio un directorio img en el cual colocar las imágenes para que al cargarse la página con *relative path* pueda reproducirlas, las he colgado tal cual sin estar en un directorio. No obstante soy consciente de que deben ir dentro de un directorio img. Para poder visualizarlas directamente al utilizar la url del repositorio en GitHub he creado un archivo llamado index2.html en el cual, utilizando *absolute path* se enlazan las imágenes utilizadas y ya tratadas desde un repositorio en la nube.
