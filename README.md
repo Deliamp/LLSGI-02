@@ -26,6 +26,9 @@ He utilizado tres imágenes sobre el tema. Tras localizarlas en Internet las he 
 
 Para poder diferenciar entre *relative path* y *absolute path* he realizado la actividad de dos formas. La primera con *relative path* (index) y la segunda con *absolute path* (index2).
 
+**NOTA:**
+Al no poder crear dentro del repositorio un directorio img en el cual colocar las imágenes para que al cargarse la página con *relativa path* pueda reproducirlas, las he colgado tal cual sin estar en un directorio. No obstante soy consciente de que deben ir dentro de un directorio img. 
+
 Al ajustar las imágenes con Webresizer su tamaño ha quedado así:
 
 1. Imagen Pyme1_opt: Ajustada de 44,46 kb a 23,17 Kb
